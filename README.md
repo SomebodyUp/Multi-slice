@@ -11,7 +11,7 @@ Multi-parametric quantitative magnetic resonance imaging (qMRI) has important ap
 
 ## Introduction
 
-'Pulse Sequence':
+`Pulse Sequence`: 
 
 <div align=center>
   <img width="359" alt="image" src="https://github.com/SomebodyUp/Multi-slice/assets/55176537/2b632b72-523c-4f37-9d6b-4eb569056cfd">
@@ -19,7 +19,7 @@ Multi-parametric quantitative magnetic resonance imaging (qMRI) has important ap
 
 > **Fig. 1** (a)Generic MOLED pulse sequence. (b)A representative MOLED k-space and the corresponding MQMOLED image from the Fourier transform of the k-space. FT denotes Fourier transform. (C)Three modulation patterns (MP-A, MP-B and MP-C) of the k-space were designed, which were used alternately in adjacent slices.
 
-> **3D Attention Gate Neural Network**
+`3D Attention Gate Neural Network`: 
 
 <div align=center>
   <img width="436" alt="image" src="https://github.com/SomebodyUp/Multi-slice/assets/55176537/86aeb8f2-dff0-49d1-be14-607de9c4d0f2">
