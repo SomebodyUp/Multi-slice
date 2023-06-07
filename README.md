@@ -1,7 +1,7 @@
 # Multi-slice
 Time 20230607 
 
-<Improving single-shot multi-parametric mapping via multi-slice information sharing based on multiple overlapping-echo detachment imaging>
+Improving single-shot multi-parametric mapping via multi-slice information sharing based on multiple overlapping-echo detachment imaging
   
 Chenyang Dai
   
