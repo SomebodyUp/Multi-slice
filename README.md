@@ -13,4 +13,5 @@ Pulse Sequence:
   <img width="359" alt="image" src="https://github.com/SomebodyUp/Multi-slice/assets/55176537/2b632b72-523c-4f37-9d6b-4eb569056cfd">
   
 3D attention gate neural network
+
   <img width="436" alt="image" src="https://github.com/SomebodyUp/Multi-slice/assets/55176537/86aeb8f2-dff0-49d1-be14-607de9c4d0f2">
