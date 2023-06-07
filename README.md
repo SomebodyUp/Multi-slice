@@ -1,6 +1,6 @@
 # Multi-slice
 > **Time** ***06/07/2023***
-
+🤗
 **Improving single-shot multi-parametric mapping via multi-slice information sharing based on multiple overlapping-echo detachment imaging**
 
 
