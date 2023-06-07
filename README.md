@@ -1,4 +1,4 @@
-# Multi-slice
+# Multi-slice information sharing
 > **Time** ***06/07/2023***
 🤗
 
