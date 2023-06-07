@@ -18,3 +18,5 @@ Multi-parametric quantitative magnetic resonance imaging (qMRI) has important ap
 > **3D Attention Gate Neural Network**
 
   <img width="436" alt="image" src="https://github.com/SomebodyUp/Multi-slice/assets/55176537/86aeb8f2-dff0-49d1-be14-607de9c4d0f2">
+
+## To be continued ......
