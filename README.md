@@ -12,6 +12,7 @@ Multi-parametric quantitative magnetic resonance imaging (qMRI) has important ap
 ## Introduction
 
 `Pulse Sequence`: 
+![image](https://github.com/SomebodyUp/SWP-MOLED/assets/55176537/17949304-3b00-4d7e-a06c-26a8728f5432)
 
 <div align=center>
   <img width="359" alt="image" src="[https://github.com/SomebodyUp/Multi-slice/assets/55176537/2b632b72-523c-4f37-9d6b-4eb569056cfd](https://github.com/SomebodyUp/SWP-MOLED/assets/55176537/adf8889d-6065-46a5-996e-1ada1d66c5b3)">
