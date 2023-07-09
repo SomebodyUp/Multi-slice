@@ -14,7 +14,7 @@ Multi-parametric quantitative magnetic resonance imaging (qMRI) has important ap
 `Pulse Sequence`: 
 
 <div align=center>
-  <img width="359" alt="image" src="https://github.com/SomebodyUp/Multi-slice/assets/55176537/2b632b72-523c-4f37-9d6b-4eb569056cfd">
+  <img width="359" alt="image" src="[https://github.com/SomebodyUp/Multi-slice/assets/55176537/2b632b72-523c-4f37-9d6b-4eb569056cfd](https://github.com/SomebodyUp/SWP-MOLED/assets/55176537/adf8889d-6065-46a5-996e-1ada1d66c5b3)">
 </div>
 
 > **Fig. 1** (a)Generic MOLED pulse sequence. (b)A representative MOLED k-space and the corresponding MOLED image from the Fourier transform of the k-space. FT denotes Fourier transform. (C)Three modulation patterns (MP-A, MP-B and MP-C) of the k-space were designed, which were used alternately in adjacent slices.
